@@ -1,0 +1,25 @@
+{
+  "name": "nodejsfilesystem",
+  "version": "1.0.0",
+  "description": " nodejs file system",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaganarasu/nodeJs-file-system.git"
+  },
+  "author": "jagan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jaganarasu/nodeJs-file-system/issues"
+  },
+  "homepage": "https://github.com/jaganarasu/nodeJs-file-system#readme",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.19.2",
+    "nodemon": "^3.1.3"
+  }
+}
